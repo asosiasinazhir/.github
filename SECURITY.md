@@ -4,7 +4,7 @@ Asosiasi Nazhir Indonesia (ANI) menjaga integritas, kerahasiaan, dan ketersediaa
 
 ## Ruang Lingkup (Scope)
 
-Kebijakan ini berlaku untuk seluruh aset digital dan repositori di bawah organisasi `Asosiasi-Nazhir-Indonesia`, termasuk namun tidak terbatas pada:
+Kebijakan ini berlaku untuk seluruh aset digital dan repositori di bawah organisasi `asosiasinazhir`, termasuk namun tidak terbatas pada:
 - Portal resmi keanggotaan, direktori CWC™, dan e-Sekretariat (`https://www.ani.or.id`)
 - Dashboard Wakaf Nasional (`https://nazhir.id`)
 - Seluruh repositori open-source (`waqf-chain`, `waqf-odoo-modules`, `waqf-odoo-docker`, `waqf-agentic-workflow`, `nazhir-reach`, `nazhir.id`, dan `.github`)

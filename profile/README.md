@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Asosiasi-Nazhir-Indonesia/.github/main/assets/logo_ani.png" width="112" alt="Logo Asosiasi Nazhir Indonesia" />
+  <img src="https://raw.githubusercontent.com/asosiasinazhir/.github/main/assets/logo_ani.png" width="112" alt="Logo Asosiasi Nazhir Indonesia" />
   <h1>Asosiasi Nazhir Indonesia (ANI)</h1>
   <p><strong>Organisasi Profesi Nazhir Wakaf Nasional · Standarisasi Kompetensi, Tata Kelola & Akselerasi Ekosistem Wakaf Produktif</strong></p>
 
@@ -20,15 +20,15 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asosiasi-Nazhir-Indonesia/.github/main/assets/banner-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asosiasi-Nazhir-Indonesia/.github/main/assets/banner-light.svg" />
-  <img alt="Indikator Utama Ekosistem Asosiasi Nazhir Indonesia" src="https://raw.githubusercontent.com/Asosiasi-Nazhir-Indonesia/.github/main/assets/banner-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asosiasinazhir/.github/main/assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asosiasinazhir/.github/main/assets/banner-light.svg" />
+  <img alt="Indikator Utama Ekosistem Asosiasi Nazhir Indonesia" src="https://raw.githubusercontent.com/asosiasinazhir/.github/main/assets/banner-dark.svg" width="100%" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asosiasi-Nazhir-Indonesia/.github/main/assets/divider-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asosiasi-Nazhir-Indonesia/.github/main/assets/divider-light.svg" />
-  <img alt="" src="https://raw.githubusercontent.com/Asosiasi-Nazhir-Indonesia/.github/main/assets/divider-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asosiasinazhir/.github/main/assets/divider-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asosiasinazhir/.github/main/assets/divider-light.svg" />
+  <img alt="" src="https://raw.githubusercontent.com/asosiasinazhir/.github/main/assets/divider-dark.svg" width="100%" />
 </picture>
 
 ### 🏛️ Tentang ANI & 4 Pilar Ekosistem Nasional
@@ -67,9 +67,9 @@ Kemitraan strategis nasional bersama **Kemenag RI**, **BWI**, **Bank Indonesia**
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asosiasi-Nazhir-Indonesia/.github/main/assets/divider-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asosiasi-Nazhir-Indonesia/.github/main/assets/divider-light.svg" />
-  <img alt="" src="https://raw.githubusercontent.com/Asosiasi-Nazhir-Indonesia/.github/main/assets/divider-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asosiasinazhir/.github/main/assets/divider-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asosiasinazhir/.github/main/assets/divider-light.svg" />
+  <img alt="" src="https://raw.githubusercontent.com/asosiasinazhir/.github/main/assets/divider-dark.svg" width="100%" />
 </picture>
 
 ### 🚀 Ekosistem Digital & Repositori Open-Source
@@ -78,13 +78,13 @@ Kemitraan strategis nasional bersama **Kemenag RI**, **BWI**, **Bank Indonesia**
   <tr>
     <td width="50%" valign="top">
 
-#### 📊 [`nazhir.id`](https://github.com/Asosiasi-Nazhir-Indonesia/nazhir.id) · [![Live](https://img.shields.io/badge/Live-01995E?style=flat-square)](https://nazhir.id)
+#### 📊 [`nazhir.id`](https://github.com/asosiasinazhir/nazhir.id) · [![Live](https://img.shields.io/badge/Live-01995E?style=flat-square)](https://nazhir.id)
 **Dashboard Wakaf Nasional ANI** untuk konsolidasi data aset, laporan arus kas, dan pengukuran dampak sosial (*Social Return on Investment* / SROI) seluruh nazhir anggota menuju Smart Nazhir Ecosystem 2030.
 
 </td>
     <td width="50%" valign="top">
 
-#### ⛓️ [`waqf-chain`](https://github.com/Asosiasi-Nazhir-Indonesia/waqf-chain) · [![Open Ledger](https://img.shields.io/badge/Immutable_Ledger-0f172a?style=flat-square)](https://github.com/Asosiasi-Nazhir-Indonesia/waqf-chain)
+#### ⛓️ [`waqf-chain`](https://github.com/asosiasinazhir/waqf-chain) · [![Open Ledger](https://img.shields.io/badge/Immutable_Ledger-0f172a?style=flat-square)](https://github.com/asosiasinazhir/waqf-chain)
 **Buku besar (*immutable ledger*) & dashboard transparansi publik** bagi lembaga nazhir untuk menyajikan pelaporan wakaf yang *tamper-proof*, terverifikasi, dan siap diaudit publik maupun regulator.
 
 </td>
@@ -92,13 +92,13 @@ Kemitraan strategis nasional bersama **Kemenag RI**, **BWI**, **Bank Indonesia**
   <tr>
     <td width="50%" valign="top">
 
-#### 🏛️ [`waqf-odoo-modules`](https://github.com/Asosiasi-Nazhir-Indonesia/waqf-odoo-modules) & [`waqf-odoo-docker`](https://github.com/Asosiasi-Nazhir-Indonesia/waqf-odoo-docker)
+#### 🏛️ [`waqf-odoo-modules`](https://github.com/asosiasinazhir/waqf-odoo-modules) & [`waqf-odoo-docker`](https://github.com/asosiasinazhir/waqf-odoo-docker)
 **Suite ERP Nazhir Wakaf berbasis Odoo 18/19** dengan dukungan akuntansi syariah `PSAK 412/112`, tata kelola `AIW/APAIW`, skema kompetensi `LSP BWI`, dan penyaluran manfaat *mauquf 'alaih* — kolaborasi bersama Amal Produktif & FWP.
 
 </td>
     <td width="50%" valign="top">
 
-#### 🤖 [`waqf-agentic-workflow`](https://github.com/Asosiasi-Nazhir-Indonesia/waqf-agentic-workflow) · [![LSP BWI](https://img.shields.io/badge/SS.001%E2%80%93SS.010-6366f1?style=flat-square)](https://github.com/Asosiasi-Nazhir-Indonesia/waqf-agentic-workflow)
+#### 🤖 [`waqf-agentic-workflow`](https://github.com/asosiasinazhir/waqf-agentic-workflow) · [![LSP BWI](https://img.shields.io/badge/SS.001%E2%80%93SS.010-6366f1?style=flat-square)](https://github.com/asosiasinazhir/waqf-agentic-workflow)
 **Orkestrasi multi-agen AI terdistribusi** yang dipetakan langsung ke 10 skema sertifikasi kompetensi nazhir LSP BWI (`SS.001`–`SS.010`) untuk membantu otomasi operasional lembaga nazhir.
 
 </td>
@@ -106,7 +106,7 @@ Kemitraan strategis nasional bersama **Kemenag RI**, **BWI**, **Bank Indonesia**
   <tr>
     <td width="50%" valign="top">
 
-#### 📣 [`nazhir-reach`](https://github.com/Asosiasi-Nazhir-Indonesia/nazhir-reach) · [![PSAK 412/109](https://img.shields.io/badge/Wakif_Flywheel-047857?style=flat-square)](https://github.com/Asosiasi-Nazhir-Indonesia/nazhir-reach)
+#### 📣 [`nazhir-reach`](https://github.com/asosiasinazhir/nazhir-reach) · [![PSAK 412/109](https://img.shields.io/badge/Wakif_Flywheel-047857?style=flat-square)](https://github.com/asosiasinazhir/nazhir-reach)
 **Mesin distribusi kampanye patuh syariah**, *wakif retention flywheel*, serta atribusi dampak keuangan `PSAK 412/109` yang dirancang khusus untuk Nazhir Wakaf dan Lembaga Amil Zakat (LAZ).
 
 </td>
@@ -120,9 +120,9 @@ Kemitraan strategis nasional bersama **Kemenag RI**, **BWI**, **Bank Indonesia**
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asosiasi-Nazhir-Indonesia/.github/main/assets/divider-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asosiasi-Nazhir-Indonesia/.github/main/assets/divider-light.svg" />
-  <img alt="" src="https://raw.githubusercontent.com/Asosiasi-Nazhir-Indonesia/.github/main/assets/divider-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asosiasinazhir/.github/main/assets/divider-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asosiasinazhir/.github/main/assets/divider-light.svg" />
+  <img alt="" src="https://raw.githubusercontent.com/asosiasinazhir/.github/main/assets/divider-dark.svg" width="100%" />
 </picture>
 
 ### 🛠️ Arsitektur Teknologi & Standar Kepatuhan
@@ -146,9 +146,9 @@ Kemitraan strategis nasional bersama **Kemenag RI**, **BWI**, **Bank Indonesia**
 | **⛓️ Ledger & Agentic AI** | `Permissioned Trust Ledger` · `Solidity / Ethereum Sepolia` · `Sub-Ledger Hash Batching` · `Multi-Agent Workflows` |
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asosiasi-Nazhir-Indonesia/.github/main/assets/divider-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asosiasi-Nazhir-Indonesia/.github/main/assets/divider-light.svg" />
-  <img alt="" src="https://raw.githubusercontent.com/Asosiasi-Nazhir-Indonesia/.github/main/assets/divider-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asosiasinazhir/.github/main/assets/divider-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asosiasinazhir/.github/main/assets/divider-light.svg" />
+  <img alt="" src="https://raw.githubusercontent.com/asosiasinazhir/.github/main/assets/divider-dark.svg" width="100%" />
 </picture>
 
 ### 📚 Referensi Kelembagaan & Standar Nasional
@@ -195,9 +195,9 @@ Kemitraan strategis nasional bersama **Kemenag RI**, **BWI**, **Bank Indonesia**
 </details>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asosiasi-Nazhir-Indonesia/.github/main/assets/divider-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asosiasi-Nazhir-Indonesia/.github/main/assets/divider-light.svg" />
-  <img alt="" src="https://raw.githubusercontent.com/Asosiasi-Nazhir-Indonesia/.github/main/assets/divider-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asosiasinazhir/.github/main/assets/divider-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asosiasinazhir/.github/main/assets/divider-light.svg" />
+  <img alt="" src="https://raw.githubusercontent.com/asosiasinazhir/.github/main/assets/divider-dark.svg" width="100%" />
 </picture>
 
 ### 🏢 Sekretariat Pusat & Kanal Resmi
@@ -211,8 +211,8 @@ Kemitraan strategis nasional bersama **Kemenag RI**, **BWI**, **Bank Indonesia**
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asosiasi-Nazhir-Indonesia/.github/main/assets/footer-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asosiasi-Nazhir-Indonesia/.github/main/assets/footer-light.svg" />
-    <img alt="Terwujudnya Nazhir wakaf yang profesional, mandiri, independen, dan berwibawa." src="https://raw.githubusercontent.com/Asosiasi-Nazhir-Indonesia/.github/main/assets/footer-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asosiasinazhir/.github/main/assets/footer-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asosiasinazhir/.github/main/assets/footer-light.svg" />
+    <img alt="Terwujudnya Nazhir wakaf yang profesional, mandiri, independen, dan berwibawa." src="https://raw.githubusercontent.com/asosiasinazhir/.github/main/assets/footer-dark.svg" width="100%" />
   </picture>
 </div>

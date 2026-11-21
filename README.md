@@ -1,6 +1,6 @@
 # Asosiasi Nazhir Indonesia (ANI) — `.github` Organization Profile & Governance
 
-Repositori ini mengelola profil publik resmi organisasi GitHub [**Asosiasi Nazhir Indonesia (ANI)**](https://github.com/Asosiasi-Nazhir-Indonesia) serta standar tata kelola perangkat lunak terbuka di seluruh repositori organisasi.
+Repositori ini mengelola profil publik resmi organisasi GitHub [**Asosiasi Nazhir Indonesia (ANI)**](https://github.com/asosiasinazhir) serta standar tata kelola perangkat lunak terbuka di seluruh repositori organisasi.
 
 ## Struktur Direktori
 
