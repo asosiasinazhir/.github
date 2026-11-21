@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 144" width="100%" role="img" aria-label="Indikator Utama Ekosistem Asosiasi Nazhir Indonesia">
+  <defs>
+    <linearGradient id="bannerGradDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070b14" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#06281e" />
+    </linearGradient>
+    <linearGradient id="bannerTopDark" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#01995e" stop-opacity="0.2" />
+      <stop offset="35%" stop-color="#10b981" stop-opacity="0.95" />
+      <stop offset="65%" stop-color="#f59e0b" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#01995e" stop-opacity="0.2" />
+    </linearGradient>
+    <clipPath id="bannerClipDark">
+      <rect x="2" y="2" width="1196" height="140" rx="18" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#bannerClipDark)">
+    <rect x="2" y="2" width="1196" height="140" fill="url(#bannerGradDark)" />
+    <rect x="2" y="2" width="1196" height="4" fill="url(#bannerTopDark)" />
+    <line x1="300" y1="26" x2="300" y2="118" stroke="#1e293b" stroke-width="1.2" />
+    <line x1="600" y1="26" x2="600" y2="118" stroke="#1e293b" stroke-width="1.2" />
+    <line x1="900" y1="26" x2="900" y2="118" stroke="#1e293b" stroke-width="1.2" />
+  </g>
+
+  <rect x="2" y="2" width="1196" height="140" rx="18" fill="none" stroke="#1e293b" stroke-width="1.5" />
+
+  <text x="155" y="56" text-anchor="middle" fill="#34d399" font-family="'Inter',system-ui,-apple-system,sans-serif" font-size="30" font-weight="800">2.117+</text>
+  <text x="155" y="84" text-anchor="middle" fill="#f8fafc" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="11.5" font-weight="700" letter-spacing="1.4">NAZHIR TERDAFTAR</text>
+  <text x="155" y="106" text-anchor="middle" fill="#94a3b8" font-family="'Inter',system-ui,-apple-system,sans-serif" font-size="12">Anggota Biasa &amp; Pra-Anggota</text>
+
+  <text x="450" y="56" text-anchor="middle" fill="#fbbf24" font-family="'Inter',system-ui,-apple-system,sans-serif" font-size="30" font-weight="800">1.581</text>
+  <text x="450" y="84" text-anchor="middle" fill="#f8fafc" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="11.5" font-weight="700" letter-spacing="1.4">SERTIFIKAT CWC™ AKTIF</text>
+  <text x="450" y="106" text-anchor="middle" fill="#94a3b8" font-family="'Inter',system-ui,-apple-system,sans-serif" font-size="12">Direktori Kompetensi Terverifikasi</text>
+
+  <text x="750" y="56" text-anchor="middle" fill="#34d399" font-family="'Inter',system-ui,-apple-system,sans-serif" font-size="30" font-weight="800">13 Skema</text>
+  <text x="750" y="84" text-anchor="middle" fill="#f8fafc" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="11.5" font-weight="700" letter-spacing="1.4">SKKNI NO. 47 / 2021</text>
+  <text x="750" y="106" text-anchor="middle" fill="#94a3b8" font-family="'Inter',system-ui,-apple-system,sans-serif" font-size="12">Standar Nasional LSP BWI · BNSP</text>
+
+  <text x="1045" y="56" text-anchor="middle" fill="#fbbf24" font-family="'Inter',system-ui,-apple-system,sans-serif" font-size="30" font-weight="800">5.025 Tx</text>
+  <text x="1045" y="84" text-anchor="middle" fill="#f8fafc" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="11.5" font-weight="700" letter-spacing="1.4">WAQF TRUST LEDGER</text>
+  <text x="1045" y="106" text-anchor="middle" fill="#94a3b8" font-family="'Inter',system-ui,-apple-system,sans-serif" font-size="12">0 Unexpected Failure · Rekonsiliasi</text>
+</svg>

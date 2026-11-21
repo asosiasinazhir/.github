@@ -1,0 +1,44 @@
+name: Bug Report
+description: Laporkan kendala teknis atau perilaku yang tidak sesuai pada proyek open-source ANI
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Terima kasih telah membantu meningkatkan kualitas infrastruktur digital **Asosiasi Nazhir Indonesia (ANI)**.
+        **Catatan:** Untuk celah keamanan atau kebocoran data, **jangan** buat issue publik — kirim laporan privat ke `info@ani.or.id`.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Ringkasan Masalah
+      description: Jelaskan secara ringkas bug yang ditemukan.
+      placeholder: Apa yang terjadi dan apa yang seharusnya terjadi?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Langkah Reproduksi
+      description: Tuliskan langkah-langkah untuk mereproduksi masalah ini.
+      placeholder: |
+        1. Buka halaman / jalankan perintah '...'
+        2. Masukkan input '...'
+        3. Lihat error pada '...'
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Lingkungan & Versi
+      description: OS, runtime (Node/Python/PHP/Odoo), browser, atau commit/versi rilis.
+      placeholder: |
+        - Sistem: Ubuntu 24.04 / Browser Chrome
+        - Versi: ...
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Pemeriksaan Awal
+      options:
+        - label: Saya memastikan laporan ini tidak memuat data pribadi (NIK/KTP), kredensial, atau kunci rahasia.
+          required: true

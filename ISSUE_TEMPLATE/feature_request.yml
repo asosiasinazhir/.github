@@ -1,0 +1,32 @@
+name: Feature Request
+description: Usulkan peningkatan fitur, integrasi, atau modul baru untuk ekosistem digital ANI
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Latar Belakang / Kebutuhan
+      description: Jelaskan masalah operasional nazhir atau kebutuhan ekosistem yang ingin diselesaikan.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Usulan Solusi
+      description: Jelaskan fitur atau arsitektur yang diusulkan.
+    validations:
+      required: true
+  - type: dropdown
+    id: pillar
+    attributes:
+      label: Keterkaitan Pilar / Standar
+      options:
+        - Dashboard Wakaf Nasional (nazhir.id)
+        - Immutable Ledger & Rekonsiliasi (waqf-chain)
+        - ERP Wakaf PSAK 112/412 (Odoo)
+        - Agentic Workflow & Sertifikasi LSP BWI
+        - Kampanye & Retensi Wakif (nazhir-reach)
+        - Dokumentasi & Profil Organisasi
+    validations:
+      required: true

@@ -1,0 +1,66 @@
+name: Validate Organization Profile & Assets
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate SVG, YAML, and Governance Files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install PyYAML
+        run: python -m pip install --upgrade pyyaml
+
+      - name: Validate SVG XML, YAML templates, and required files
+        run: |
+          python3 - <<'EOF'
+          import glob
+          import os
+          import xml.etree.ElementTree as ET
+          import yaml
+
+          required_files = [
+              "README.md",
+              "profile/README.md",
+              "SECURITY.md",
+              "CONTRIBUTING.md",
+              "CODE_OF_CONDUCT.md",
+              "SUPPORT.md",
+              "PULL_REQUEST_TEMPLATE.md",
+              "assets/logo_ani.png",
+          ]
+          for path in required_files:
+              assert os.path.isfile(path), f"Missing required file: {path}"
+              assert os.path.getsize(path) > 0, f"Empty required file: {path}"
+              print(f"OK FILE: {path}")
+
+          svgs = sorted(glob.glob("assets/*.svg"))
+          assert svgs, "No SVG assets found"
+          for svg in svgs:
+              ET.parse(svg)
+              print(f"OK SVG: {svg}")
+
+          ymls = sorted(glob.glob(".github/workflows/*.yml") + glob.glob("ISSUE_TEMPLATE/*.yml"))
+          assert ymls, "No YAML files found"
+          for yml in ymls:
+              with open(yml, "r", encoding="utf-8") as fh:
+                  yaml.safe_load(fh)
+              print(f"OK YAML: {yml}")
+          EOF
